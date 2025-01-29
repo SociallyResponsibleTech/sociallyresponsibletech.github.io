@@ -1,3 +1,8 @@
+---
+title: Socially Responsible Tech Lab
+---
+
+
 ***
 [Home](index.md)    [About Us](about.md)     [News](#recent-news)     [Members](#our-lab-members)     [Contact Us](#contact-information)
 ***
@@ -5,7 +10,7 @@
 
 More to come soon!
 
-***
+---
 ## Recent News
 
 !!!! To fill in with lab news, upcoming/recent papers and mayhaps grants?
