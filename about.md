@@ -1,5 +1,6 @@
 ---
 title: About Our Lab
+layout: default
 permalink: /about/
 ---
 [Home](index.md)
