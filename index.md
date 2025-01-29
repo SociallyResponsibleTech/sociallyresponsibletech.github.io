@@ -5,6 +5,7 @@ title: Socially Responsible Tech Lab
 
 ***
 [Home](index.md)    [About Us](about.md)     [News](#recent-news)     [Members](#our-lab-members)     [Contact Us](#contact-information)
+
 ***
 # Socially Responsible Tech Lab
 
