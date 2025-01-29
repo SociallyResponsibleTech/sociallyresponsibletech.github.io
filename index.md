@@ -1,5 +1,6 @@
 ---
-title: Socially Responsible Tech Lab
+title: Home
+permalink: /
 ---
 
 
