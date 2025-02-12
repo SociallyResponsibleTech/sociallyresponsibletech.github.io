@@ -53,7 +53,7 @@ When you send me an email, please add the following to the beginning of the emai
 
 **Current Masters Students at UGA** who are interested in working with the lab should first take Dr. Ari's HCI course (CSCI 4800/6800) or her 8000 level graduate seminar. This will help you assess if research in HCC and anti-discriminatory computing is something  you are genuinely interested in, and it will help both you and Dr. Ari to see if you are a good match for working together. 
 
-**As a rule, I require master’s students to take one of my classes as a prerequisite for a master’s student project or thesis under my supervision. This class can be taken as an undergrad**
+**As a rule,** I require master’s students to take one of my classes as a prerequisite for a master’s student project or thesis under my supervision. This class can be taken as an undergraduate.
 
 *Please don't send a generic, copy-paste email. Dr. Ari is busy, and is unable to respond to all emails she recieves. Take notes from what is required of PHD students, and note that generic emails are less likely to get a response* 
 
