@@ -1,0 +1,11 @@
+pages:
+  - title: About
+    url: /
+    html: /
+  - title: Projects
+    url: /projects
+    html: /projects
+  - title: Involvement
+    url: /involvement
+    html: /involvement
+  
