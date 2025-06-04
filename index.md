@@ -25,10 +25,10 @@ If you’re interested in working on problems like responsible design and harm r
 <ul>
     {% for member in site.data.members %}
         <li>
-         <a href="mailto:{{member.email}}">
-            <b>{{ member.name }}</b>
-        </a>
-        {{ member.title }}
+             <a href="mailto:{{member.email}}">
+                <b>{{ member.name }}</b>
+            </a>
+            <p>{{ member.title }}<\p>
         <\li>    
     {% endfor %}
 <\ul>
