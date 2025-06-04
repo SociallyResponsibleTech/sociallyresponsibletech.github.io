@@ -17,9 +17,6 @@ If you’re interested in working on problems like responsible design and harm r
 
 ***
 
-## News
-
-***
 
 ## Members
 <ul>
