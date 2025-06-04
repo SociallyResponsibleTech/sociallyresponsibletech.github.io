@@ -32,9 +32,7 @@ If you’re interested in working on problems like responsible design and harm r
             <b>{{ member.name }}</b>
          <\p>
         </a>
-        <p>
             {{ member.title }}
-        <\p>
     {% endfor %}
 </ul>
 
