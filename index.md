@@ -28,12 +28,12 @@ If you’re interested in working on problems like responsible design and harm r
             <img src="{{member.image}}" alt="{{member.name}}'s headshot"  width="400" height="400" role="img"/>
             <br>
         </span>
-         <a href="mailto:{{member.email}}">
+         <p><a href="mailto:{{member.email}}">
             <b>{{ member.name }}</b>
+         <\p>
         </a>
         <p>
-            <br>
-            {{ member.title }} <br>
+            {{ member.title }}
         <\p>
     {% endfor %}
 </ul>
