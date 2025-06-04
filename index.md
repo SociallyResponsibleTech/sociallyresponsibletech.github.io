@@ -22,21 +22,21 @@ If you’re interested in working on problems like responsible design and harm r
 ***
 
 ## Members
-<ul>
-    {% for member in site.data.members %}
-        <span>
-            <img src="{{member.image}}" alt="{{member.name}}'s headshot"  width="400" height="400" role="img"/>
-            <br>
-        </span>
-         <a href="mailto:{{member.email}}">
-            <b>{{ member.name }}</b>
-        </a>
-        <span>
-            {{ member.title }}
-            <br>
-        <\span>
-    {% endfor %}
-</ul>
+
+{% for member in site.data.members %}
+    <span>
+        <img src="{{member.image}}" alt="{{member.name}}'s headshot"  width="400" height="400" role="img"/>
+        <br>
+    </span>
+     <a href="mailto:{{member.email}}">
+        <b>{{ member.name }}</b>
+    </a>
+    <span>
+        {{ member.title }}
+        <br>
+    <\span>
+{% endfor %}
+
 
 ***
 
