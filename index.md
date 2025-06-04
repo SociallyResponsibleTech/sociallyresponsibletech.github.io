@@ -26,11 +26,12 @@ If you’re interested in working on problems like responsible design and harm r
     {% for member in site.data.members %}
     <li>
         <span>
-            <img src="{{member.image}}" alt="{{member.name}}'s headshot" role="img"/>
+            <img src="{{member.image}}" alt="{{member.name}}'s headshot" role="img" width="300" height="300"/>
         </span>
          <a href="mailto:{{member.email}}">
-            {{ member.name }}
+            <b>{{ member.name }}<\b>
         </a>
+        <br>
         {{ member.title }}
     </li>
     {% endfor %}
