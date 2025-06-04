@@ -25,12 +25,14 @@ If you’re interested in working on problems like responsible design and harm r
 <ul>
     {% for member in site.data.members %}
     <li>
-        <a href="mailto:{{member.email}}">
+        {% if member.image == "none" %}
+        {% else %}
+            <span>
+                <img src="{{member.image}}" alt="{{member.name}}'s headshot" role="img"/>
+            </span>
+         <a href="mailto:{{member.email}}">
             {{ member.name }}
         </a>
-        <span>
-            <img src="{{member.image}}" alt="{{member.name}}'s headshot" role="img"/>
-        </span>
     </li>
     {% endfor %}
 </ul>
