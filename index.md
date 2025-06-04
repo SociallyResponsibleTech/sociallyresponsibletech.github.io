@@ -28,9 +28,8 @@ If you’re interested in working on problems like responsible design and harm r
             <img src="{{member.image}}" alt="{{member.name}}'s headshot"  width="400" height="400" role="img"/>
             <br>
         </span>
-         <p><a href="mailto:{{member.email}}">
+         <a href="mailto:{{member.email}}">
             <b>{{ member.name }}</b>
-         <\p>
         </a>
             {{ member.title }}
     {% endfor %}
