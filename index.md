@@ -23,8 +23,10 @@ If you’re interested in working on problems like responsible design and harm r
     {% for member in site.data.members %}
         <li>
              <a href="mailto:{{member.email}}">
-                <b>{{ member.name }}</b>
-            </a><\li>    
+                {{ member.name }},
+            </a>
+            {{ member.title }}
+        <\li>    
     {% endfor %}
 <\ul>
 
