@@ -31,7 +31,10 @@ If you’re interested in working on problems like responsible design and harm r
          <a href="mailto:{{member.email}}">
             <b>{{ member.name }}</b>
         </a>
+        <span>
             {{ member.title }}
+            <br>
+        <\span>
     {% endfor %}
 </ul>
 
