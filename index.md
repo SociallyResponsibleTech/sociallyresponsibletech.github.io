@@ -21,12 +21,12 @@ If you’re interested in working on problems like responsible design and harm r
 ## Members
 <ul>
     {% for member in site.data.members %}
-        <li >
-             <a href="mailto:{{member.email}}">
-                {{ member.name }}
-            </a>
-            {{ member.title }}
-        <\li>    
+    <li >
+         <a href="mailto:{{member.email}}">
+            {{ member.name }}
+        </a>
+        {{ member.title }}
+    <\li>    
     {% endfor %}
 <\ul>
 
